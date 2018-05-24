@@ -1,0 +1,7 @@
+set clipboard+=unnamed
+
+vnoremap <Leader>y  "+y
+vnoremap <Leader>p  "+p
+
+noremap <Leader>y  "+y
+noremap <Leader>p  "+p
